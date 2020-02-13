@@ -1,0 +1,4 @@
+insert into mem
+(id,email)
+values('nokchi','tjrrms970@gmail.com')
+/
